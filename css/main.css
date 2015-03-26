@@ -8,6 +8,14 @@ html body {
     padding-top: 10px;
 }
 
+.row-nextVideo {
+    padding-top: 20px;
+}
+
+#btnNextVideo {
+    float: right;
+}
+
 .outerContainer {
     display: none;
 }
