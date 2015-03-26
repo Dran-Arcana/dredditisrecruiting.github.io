@@ -8,6 +8,10 @@ html body {
     padding-top: 10px;
 }
 
+.outerContainer {
+    display: none;
+}
+
 .row-centered {
     text-align: center;
 }
