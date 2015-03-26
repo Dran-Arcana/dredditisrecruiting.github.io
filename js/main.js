@@ -49,6 +49,10 @@ $(function(){
 
 
         this.loadVideoManifest();
+        var self = this; //sloppy. sue me.
+        $("#btnNextVideo").click(function() {
+            self.nextViewVideo();
+        });
     };
 
     new videoRoulette();
