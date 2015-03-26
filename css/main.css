@@ -4,8 +4,19 @@
    Author's custom styles
    ========================================================================== */
 
-#videoFrame {
-    margin: 0 auto;
+html body {
+    padding-top: 10px;
+}
+
+.row-centered {
+    text-align: center;
+}
+
+.col-centered {
+    display: inline-block;
+    float: none;
+    text-align: left;
+    margin-right; -4px;
 }
 
 
