@@ -35,18 +35,24 @@ html body {
     margin-bottom: 4em;
 }
 
+.row-bottom-lightpad {
+    margin-bottom: 1em;
+}
 
+.blog-content {
+    padding: 5px;
+}
 
+.post-link {
+    font-weight: bold;
+    color: #cdcdcd;
+    font-size: large;
+}
 
+.post-meta {
+    padding-left: 1em;
+}
 
-
-
-
-
-
-
-
-
-
-
-
+.shadow {
+    text-shadow: 1px 1px #ababab;";
+}
