@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="container" style="display: block;">
+<div class="container">
     <div class="row row-centered">
         <div>
             <a href="/"><img src="/img/miniLogo.png" /></a>
@@ -12,7 +12,7 @@ layout: default
         <h2 class="shadow">{{page.title}}</h2>
         <p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
     </div>
-    <div class="row row-centered blog-content">
+    <div class="row row-left blog-content">
         <div class="col col-centered">
             {{content}}
         </div>
