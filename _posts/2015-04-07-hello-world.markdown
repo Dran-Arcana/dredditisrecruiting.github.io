@@ -7,7 +7,7 @@ author: Yolo Swagtron
 
 Hello New Eden!
 
-This is the official new blog of Dreddit and the greater Test Alliance Please Ignore Alliance.
+This is the new blog of Dreddit and the greater Test Alliance Please Ignore.
 
 Stay tuned for updates on dank frags, fights, politiking, and sweet,
 sweet space drama!
