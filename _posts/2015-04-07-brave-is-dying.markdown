@@ -23,7 +23,7 @@ Fast forward two years, and Brave's legacy is felt everywhere. For all its short
 * TEST recruits newbies.
 * The CFC recruits newbies. 
 * ProviBloc recruits newbies.
-* N3 recruits newibes.
+* N3 recruits newbies.
 * PL recruits newbies.
 * BL recruits newbies
 * Rus recruits newbies.
