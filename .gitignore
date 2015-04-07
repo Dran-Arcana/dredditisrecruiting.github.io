@@ -21,14 +21,23 @@ $RECYCLE.BIN/
 *.lnk
 
 
+### Linux ###
+*~
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+
 ### OSX ###
 .DS_Store
 .AppleDouble
 .LSOverride
 
 # Icon must end with two \r
-Icon
-
+Icon
 
 # Thumbnails
 ._*
@@ -49,12 +58,7 @@ Temporary Items
 .apdisk
 
 
-### Linux ###
-*~
-
-# KDE directory preferences
-.directory
-
-# Linux trash folder which might appear on any partition or disk
-.Trash-*
+### Jekyll ###
+_site/
+.sass-cache/
 
