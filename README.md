@@ -8,7 +8,7 @@ Install [Jekyll](http://jekyllrb.com/)
 
 > jekyll build
 
-Final site will appear in a new directory, _build.
+Final site will appear in a new directory, _site.
 
 ## Contributing
 
