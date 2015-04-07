@@ -1,30 +1,17 @@
 ---
 layout: post
-title: "POST TITLE"
-date: 2015-04-07 11:32:00
-author: POST AUTHOR
+title: "The Dino Roars, Louder Than Ever"
+date: 2015-04-07 14:34:00
+author: Yolo Swagtron
 ---
 
-This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. 
+Hello New Eden!
 
-> this is a quote
+This is the new, official public communications platform of Dreddit and the greater Test Alliance Please Ignore Alliance. Any member may submit a post to be published.
 
-    this is code
+Stay tuned for updates on dank frags, fights, politiking, and sweet,
+sweet space drama!
 
-*this is italics*
+With our successful transition into Wicked Creek, we are actively looking for new members more than ever!
 
-**this is bold**
-
-this is
-
-   * a bullet list
-
-this is
-
-   1. a numbered list
-
-this is [a link](http://www.google.com)
-
-# This is a header
-
-## This is a subheader
+[Dreddit is growing fast](http://evemaps.dotlan.net/corp/Dreddit), and TEST is stronger and more together than it's ever been.
