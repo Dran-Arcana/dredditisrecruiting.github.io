@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="container" style="display: block;">
+    <div class="row row-centered">
+        <div>
+            <a href="/"><img src="/img/miniLogo.png" /></a>
+        </div>
+    </div>
+    <div class="page-header row-centered">
+        <h2 class="shadow">{{page.title}}</h2>
+        <p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    </div>
+    <div class="row row-centered blog-content">
+        <div class="col col-centered">
+            {{content}}
+        </div>
+    </div>
+
+    <div class="row row-centered">
+        <a href="/posts.html"><button type="button" class="btn btn-default btn-sm"><span class="glyphicon glyphicon-chevron-left"></span></button></a>
+    </div>
+</div>
+
+{% include default-scriptRef.html %}

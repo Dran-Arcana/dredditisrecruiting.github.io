@@ -1,0 +1,12 @@
+# Site settings
+title: "Dreddit: An EVE Online Corporation"
+email: tony.lechner@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  The EVE Online Corporation of, by, and for Redditors.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dredditisrecruiting.com" # the base hostname & protocol for your site
+github_username:  dredditisrecruiting
+
+# Build settings
+markdown: kramdown
+
