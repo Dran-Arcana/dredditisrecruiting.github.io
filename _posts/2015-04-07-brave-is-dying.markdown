@@ -4,7 +4,7 @@ title: "BRAVE is dying (and it's okay!)"
 date: 2015-04-07 17:13:00
 author: Yolo Swagtron
 ---
-If you haven't been following the drama lately, there has been a coup in the Brave Collective. Several members of the alliance's leadership team, using the game's Alliance executor voting mechanic, successsfully [ousted CEO Lychton Kondur](http://www.reddit.com/r/Bravenewbies/comments/31m3a1/brave_leadership_is_changing/) after he went to bed. In the hours that have followed, a massive outpouring of confusion and dissent from within and without is threatening to tear the Collective apart. Line members and leadership that were kept in the dark feel blindsided, and are furious.
+If you haven't been following the drama lately, there has been a coup in the Brave Collective. Several members of the alliance's leadership team, using the game's Alliance executor voting mechanic, successfully [ousted CEO Lychton Kondur](http://www.reddit.com/r/Bravenewbies/comments/31m3a1/brave_leadership_is_changing/) after he went to bed. In the hours that have followed, a massive outpouring of confusion and dissent from within and without is threatening to tear the Collective apart. Line members and leadership that were kept in the dark feel blindsided, and are furious.
 
 All eyes are on BRAVE right now, from Deklein to Immensea.
 
