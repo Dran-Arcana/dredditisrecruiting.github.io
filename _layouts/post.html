@@ -13,9 +13,7 @@ layout: default
         <p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
     </div>
     <div class="row row-left blog-content">
-        <div class="col col-centered">
-            {{content}}
-        </div>
+        {{content}}
     </div>
 
     <div class="row row-centered">
