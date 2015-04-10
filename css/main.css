@@ -43,6 +43,14 @@ html body {
     padding: 5px;
 }
 
+.blog-content .imgP {
+    width: 100%;
+    text-align: center;
+}
+.blog-content .imgP img {
+    
+}
+
 .post-link {
     font-weight: bold;
     color: #cdcdcd;
