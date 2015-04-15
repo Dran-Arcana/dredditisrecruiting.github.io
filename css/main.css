@@ -46,9 +46,13 @@ html body {
 .blog-content .imgP {
     width: 100%;
     text-align: center;
+    padding-top: 2em;
+    padding-bottom: 2em;
 }
-.blog-content .imgP img {
-    
+
+.blog-content p,
+.blog-content blockquote {
+    font-size: 17px;
 }
 
 .post-link {
