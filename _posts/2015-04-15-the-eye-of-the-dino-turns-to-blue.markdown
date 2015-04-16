@@ -22,4 +22,4 @@ TEST Alliance pilots were eager to answer the call, with fleets have already bee
 
 Dreddit recruiter and shitposter Yolo Swagtron emphasized that _"our intelligence, recon, covert ops, and fleet commander recruitment numbers are all at an all-time high. **We couldn't be happier to welcome new targets.**"_
 
-{% youtube rE_TUwYc6Vk %}
+{% include youtube.html id="rE_TUwYc6Vk" %}
