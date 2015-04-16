@@ -18,7 +18,7 @@ Having steamrolled its most egregious wannabe-headshotter NOFUX, TEST Alliance C
 >
 > These folks have banded together in the name of pushing us out in USTZ.  They remember an anemic TEST, a TEST that didn't give two shits about what happened around them because their interests weren't really tied to the coalition's interests.  What they will find when they get organized and ready is a TEST possibly stronger than during any other stand alone campaign in our history.  
 
-TEST Alliance pilots were eager to answer the call, with fleets have already been sighted on the undock of Q-GQHN. TEST agents inside BLUE have reported difficulty accessing station services there.
+TEST Alliance pilots were eager to answer the call, with fleets already sighted on the undock of Q-GQHN. TEST agents inside BLUE have reported difficulty accessing station services there.
 
 Dreddit recruiter and shitposter Yolo Swagtron emphasized that _"our intelligence, recon, covert ops, and fleet commander recruitment numbers are all at an all-time high. **We couldn't be happier to welcome new targets.**"_
 
