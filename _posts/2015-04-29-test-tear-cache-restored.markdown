@@ -89,5 +89,5 @@ all.
 
 {% include imgur-gifv.html id="http://i.imgur.com/DCnJLrK.gifv" height="338" width="600" %}
 
-TEST CEO ~~Sapporo~~ Xerxes Jones was seen cracking an out-of-character 
+TEST CEO Xerxes Jones was seen cracking an out-of-character 
 smile as  he sat upon his Golden Throne of Slopes.
