@@ -27,7 +27,7 @@ hyper-elite sperg force to avenge the murdered flair.
 > 
 > Black Legion with tech three cruisers and superb fleet commanders.
 >
-> This new elite force, ordained **Autist Legion** crushes its enemies 
+> This new elite force, ordained **Autist Legion**, crushes its enemies 
 > through the sheer, unrivaled power of autism.
 >
 > We will avenge the unprovoked, barbaric murder of our bravenewbies flair.
