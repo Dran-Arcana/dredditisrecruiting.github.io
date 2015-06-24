@@ -6,7 +6,7 @@ author: Yolo Swagtron
 ---
 
 At 6:30 AM this morning, the TEST Alliance /r/bravenewbies flair was found face
-down in puddle in a back alley of the YZ-LQL station. After being rushed to
+down in a puddle in a back alley of the YZ-LQL station. After being rushed to
 a nearby hospital, it was pronounced dead on arrival at 6:59 local time.
 
 Dreddit CEO DurrHurrDurr has declared a corporate day of mourning as a wave of 
