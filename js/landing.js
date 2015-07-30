@@ -31,7 +31,7 @@ $(function(){
         }
         this.nextViewVideo = function() {
             if (this.currentVideoIndex == null) {
-                this.currentVideoIndex = this.getRandomInt(0, this.videoManifest.length - 1);
+                this.currentVideoIndex = 0;
             } else {
                 this.currentVideoIndex = (this.currentVideoIndex == (this.videoManifest.length - 1) ? 0 : (this.currentVideoIndex + 1));
             }
@@ -49,10 +49,12 @@ $(function(){
 
 
         this.loadVideoManifest();
-        var self = this; //sloppy. sue me.
-        $("#btnNextVideo").click(function() {
-            self.nextViewVideo();
-        });
+        (function() {
+            var self = this;
+            $("#btnNextVideo").click(function() {
+                self.nextViewVideo();
+            });
+        })();
     };
 
     new videoRoulette();
