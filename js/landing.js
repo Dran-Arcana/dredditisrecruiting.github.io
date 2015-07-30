@@ -49,13 +49,10 @@ $(function(){
 
 
         this.loadVideoManifest();
-        (function() {
-            var self = this;
-            $("#btnNextVideo").click(function() {
-                self.nextViewVideo();
-            });
-        })();
     };
 
-    new videoRoulette();
+    var roulette = new videoRoulette();
+    $("#btnNextVideo").click(function() {
+        roulette.nextViewVideo();
+    });
 });
