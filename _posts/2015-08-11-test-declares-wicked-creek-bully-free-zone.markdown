@@ -34,6 +34,8 @@ enough were tracked down and beaten to a pulp.
 
 Bubbles were anchored. Entosis modules were activated.
 
+![Deadzone](http://i.imgur.com/dam0zTC.png)
+
 The bully tried feebly to swing back. As TEST alliance chanted "WE JUST WANT 
 FIGHTS!", missile launchers and artillary cannons reduced the PFR fleet to 
 capsules in under sixty seconds - with no losses.
@@ -51,3 +53,5 @@ in their capital entered reinforced mode, the cry finally came.
 Lessons were learned.
 
 There's no place for bullies in Wicked Creek.
+
+![Mission Accomplished](http://i.imgur.com/PjFAFKB.jpg)
