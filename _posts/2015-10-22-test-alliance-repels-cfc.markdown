@@ -8,13 +8,9 @@ author: Janessa Degnar
 **WICKED CREEK** In a dramatic victory for TEST Alliance, Imperium’s deployment
 group was roundly defeated in battle in system M-MBRT in Wicked Creek.
 Outnumbering the TEST fleet and engaging them in T3 Cruisers with HAC support,
-the Imperium Tengus were no match against the mighty T3ST Proteus Doctrine. In
-a dramatic victory for TEST Alliance, Imperium’s deployment group was roundly
-defeated in battle in system M-MBRT in Wicked Creek. Outnumbering the TEST
-fleet and engaging them in T3 Cruisers with HAC support, the Imperium Tengus
-were [no
-match](http://evf-eve.com/services/brcat/?s=591&b=6734999&e=90&t=urqb&r=1) 
-against the mighty T3ST Proteus Doctrine.
+the Imperium Tengus were [no
+match](http://evf-eve.com/services/brcat/?s=591&b=6734999&e=90&t=urqb&r=1)
+against the mighty T3ST Proteus Doctrine. 
 
 In a move variously called “The Trafalgar Shuffle”, “The Trafalgar Hammer”, and
 widely recognized as “The Old In and Out”, TEST FC Trafalgar Raw landed the
