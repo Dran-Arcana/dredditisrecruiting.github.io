@@ -10,14 +10,9 @@ Install [Jekyll](http://jekyllrb.com/)
 
 Final site will appear in a new directory, _site.
 
-## Contributing
-
-Please base work off the *trunk* branch, not master.
-
 ## Author
 
-[Tony Lechner](http://tony-lechner.com/) AKA YoloSwagtron9000 (Ingame subcap
-main: [_Braxis Terroc_](http://evewho.com/pilot/Braxis+Terroc))
+[Tony Lechner](http://tony-lechner.com/)
 
 
 ## License
