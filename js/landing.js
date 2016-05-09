@@ -38,6 +38,15 @@ $(function(){
             this.setViewVideo(this.createEmbedUrl(this.videoManifest[this.currentVideoIndex]));
         };
 
+        this.previousViewVideo = function() {
+          if (this.currentVideoIndex == null) {
+            this.currentVideoIndex = 0;
+          } else {
+              this.currentVideoIndex = (this.currentVideoIndex == 0 ? (this.videoManifest.length - 1) : (this.currentVideoIndex + 1));
+          }
+          this.setViewVideo(this.createEmbedUrl(this.videoManifest[this.currentVideoIndex]));
+        };
+
         this.setViewVideo = function(url) {
             $("#videoFrame").attr("src", url);
 
@@ -52,6 +61,9 @@ $(function(){
     };
 
     var roulette = new videoRoulette();
+    $("#btnPrevVideo").click(function() {
+        roulette.previousViewVideo();
+    });
     $("#btnNextVideo").click(function() {
         roulette.nextViewVideo();
     });

@@ -12,7 +12,7 @@ html body {
     padding-top: 20px;
 }
 
-#btnNextVideo {
+div.btnVideos {
     float: right;
 }
 
