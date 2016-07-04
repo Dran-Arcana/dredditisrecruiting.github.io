@@ -11,7 +11,7 @@ RESTful, WebScale™, MongoDB-powered API solution to answer the age-old questio
 Dreddit recruiting?*
 
 Available at
-[www.isdredditrecruiting.com](https://www.isdredditrecruitment.com), the
+[www.isdredditrecruiting.com](https://www.isdredditrecruiting.com), the
 Dreddit Recruitment API consults a myriad of databases and algorithms, going
 through a full web-scale architecture stack to determine the recruitment status
 of _Dreddit_ - an elite, highly-exclusive EVE Online corporation.
