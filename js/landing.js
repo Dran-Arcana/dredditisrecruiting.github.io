@@ -33,7 +33,12 @@ $(function(){
             if (this.currentVideoIndex == null) {
                 this.currentVideoIndex = 0;
             } else {
-                this.currentVideoIndex = (this.currentVideoIndex == (this.videoManifest.length - 1) ? 0 : (this.currentVideoIndex + 1));
+                var upperBound = this.videoManifest.length - 1;
+                if (this.currentVideoIndex >= upperBound) {
+                    this.currentVideoIndex = 0;                    
+                } else {
+                    this.currentVideoIndex += 1;
+                }
             }
             this.setViewVideo(this.createEmbedUrl(this.videoManifest[this.currentVideoIndex]));
         };
@@ -42,7 +47,12 @@ $(function(){
           if (this.currentVideoIndex == null) {
             this.currentVideoIndex = 0;
           } else {
-              this.currentVideoIndex = (this.currentVideoIndex == 0 ? (this.videoManifest.length - 1) : (this.currentVideoIndex + 1));
+              var upperBound = this.videoManifest.length - 1;
+              if (this.currentVideoIndex <= 0) {
+                  this.currentVideoIndex = upperBound;
+              } else {
+                  this.currentVideoIndex -= 1;
+              }
           }
           this.setViewVideo(this.createEmbedUrl(this.videoManifest[this.currentVideoIndex]));
         };
